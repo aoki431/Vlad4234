@@ -8,7 +8,7 @@
             Console.WriteLine("math:\n");
             x = Convert.ToInt32(Console.ReadLine());
             y = Math.Sqrt(x) + 10;
-            Console.WriteLine($"y = {y}");
+            Console.WriteLine($"y = {y * 2}");
 
         }
     }
